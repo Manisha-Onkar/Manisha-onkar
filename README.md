@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D12AQGgZwXEkp0K9Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707745582731?e=2147483647&v=beta&t=_EPAK6-63NlnbCJJsWF3Z1zcNcfZQKhNV1IByivAuFI)
+![logo](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Manisha onkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
